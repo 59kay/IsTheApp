@@ -43,3 +43,7 @@ allprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+ext {
+       PACKAGE_CHECK_SOCIAL = "\"PHISHING-SOCIAL_NETWORK\""
+}
