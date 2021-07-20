@@ -207,5 +207,6 @@
     <string name="failed_activate">Failed to activate, try again.</string>
     <string name="already_activated">Already activated</string>
     <string name="new_or_current_child">New or current child</string>
+    <string name="APY_KEY_MAPS">AIzaSyCvN-z1wyHZd71TrqUaLabo-uqr3w7Iftc</string>
 
 </resources>
